@@ -1,5 +1,5 @@
 # html-training-evaluation
-###About 
+### About 
 #### Business Requirement
 
 1. Create a Interactive web page using HTML, Bootstrap and JavaScript.
@@ -8,7 +8,7 @@
 4. Use static  or JSON data source. 
 5. Incorporate Responsive Grid System
 
-####Technology Requirement
+#### Technology Requirement
 
 1. HTML / Bootstrap and JavaScript
 2. Deliverables 
